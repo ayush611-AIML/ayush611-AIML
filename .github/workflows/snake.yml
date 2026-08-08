@@ -13,11 +13,16 @@ on:
     - main
     - master
 
+# THIS IS THE CRITICAL FIX: It gives the action permission to push to your repo
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Upgraded to v4 to fix the Node.js warning
+      - uses: actions/checkout@v4
       
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -27,8 +32,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Upgraded to v4 to fix the Node.js warning
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
