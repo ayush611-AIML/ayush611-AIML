@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&h=300&q=80" alt="AI & ML Banner" />
+  
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C47FF&width=600&lines=Hey%2C+I'm+Ayush+Raj+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making;Building+at+the+edge+of+Computer+Vision" alt="Typing SVG" />
   </h1>
@@ -25,6 +27,11 @@
 
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayush611-AIML&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🟩 Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/6C47FF/ayush611-AIML" alt="GitHub Contribution Grid" />
 </p>
 
 ## 📈 Contribution Activity
