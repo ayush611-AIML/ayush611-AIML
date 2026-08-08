@@ -2,13 +2,15 @@
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C47FF&width=600&lines=Hey%2C+I'm+Ayush+Raj+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+making;Building+at+the+edge+of+Computer+Vision" alt="Typing SVG" />
   </h1>
-  [![ ](https://komarev.com/ghpvc/?username=ayush611-AIML&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=ayush611-AIML&icon=0&color=0" alt="Profile Views" />
+  </a>
 </div>
 
 ---
 
 # 💫 About Me:
-🚀 Hey, I'm Ayush Raj – an aspiring AI & ML Engineer and Full Stack Developer[cite: 2]!<br>I am currently pursuing my B.Tech in Computer Science Engineering (AI and ML) at Vellore Institute of Technology, Bhopal[cite: 2]. From building interactive 3D AI web platforms using React and Three.js to training Weed Detection Systems with YOLOv3, I love bringing impactful ideas to life in code[cite: 2]. Join me as I explore new tech, tackle exciting challenges, and share what I learn along the way[cite: 1]. Let’s build something awesome together! 💻[cite: 1]
+🚀 Hey, I'm Ayush Raj – an aspiring AI & ML Engineer and Full Stack Developer!<br>I am currently pursuing my B.Tech in Computer Science Engineering (AI and ML) at Vellore Institute of Technology, Bhopal. From building interactive 3D AI web platforms using React and Three.js to training Weed Detection Systems with YOLOv3, I love bringing impactful ideas to life in code. Join me as I explore new tech, tackle exciting challenges, and share what I learn along the way. Let’s build something awesome together! 💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushraj) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ayush611-AIML) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushra6111@gmail.com) 
@@ -30,12 +32,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush611-AIML&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-## 🏆 GitHub Trophies
-   ![](https://github-trophies.vercel.app/?username=ayush611-AIML&theme=onedark)
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![snake gif](https://github.com/ayush611-AIML/ayush611-AIML/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/ayush611-AIML/ayush611-AIML/raw/output/github-snake-dark.svg" alt="snake gif" />
+</p>
