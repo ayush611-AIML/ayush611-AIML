@@ -29,11 +29,6 @@
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayush611-AIML&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🟩 Contribution Graph
-<p align="center">
-  <img src="https://ghchart.rshah.org/6C47FF/ayush611-AIML" alt="GitHub Contribution Grid" />
-</p>
-
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush611-AIML&theme=react-dark&hide_border=true&area=true" />
