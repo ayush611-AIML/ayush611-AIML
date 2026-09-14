@@ -79,7 +79,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush611-AIML&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg" alt="Ayush Raj's GitHub Stats" height="180">
+  <img src="./profile/top-langs.svg" alt="Ayush Raj's Top Languages" height="180">
 </p>
 
 <p align="center">
