@@ -14,10 +14,11 @@
 # 💫 About Me:
 🚀 Hey, I'm Ayush Raj — an aspiring AI & ML Engineer, Full-Stack Developer, and App Developer. I’m currently pursuing my B.Tech in Computer Science Engineering (AI & ML) at Vellore Institute of Technology, Bhopal. From building interactive 3D AI web platforms using React and Three.js to training Weed Detection Systems with YOLOv3, I enjoy turning ideas into impactful software. I’m also learning and building mobile applications, exploring modern app development technologies and creating practical, user-focused experiences. Let’s build, learn, and create something awesome together! 💻📱
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushraj) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ayush611-AIML) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/AyushRaj217545)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayu_sh.619?stkn=YnhxeDduN3IwNDdv)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushra6111@gmail.com)
 
 # 💻 Tech Stack:
