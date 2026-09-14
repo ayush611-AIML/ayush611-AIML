@@ -89,7 +89,7 @@
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush611-AIML&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://raw.githubusercontent.com/ayush611-AIML/ayush611-AIML/output/activity-graph.svg" alt="Ayush Raj's Contribution Activity Graph">
 </p>
 
 ---
